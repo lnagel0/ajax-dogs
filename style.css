@@ -1,0 +1,16 @@
+html {
+    font-family: "Tahoma", "Arial", sans-serif;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+}
+
+.add-doggo {
+    margin-bottom: 20px;
+}
